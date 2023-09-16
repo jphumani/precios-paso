@@ -1,3 +1,7 @@
+![Static Badge](https://img.shields.io/badge/PostgreSQL-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=black) ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=yellow) ![Static Badge](https://img.shields.io/badge/SCIKIT%20LEARN-%23F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=grey) ![Static Badge](https://img.shields.io/badge/PANDAS-%23150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=grey)
+
+
+
 # Análisis de precios PASO Argentina Agosto 2023 🚧
 
 En el contexto de las elecciones a presidente el pasado Agosto del 2023, se propone fundamentar la relación que hay entre: DOLAR-PRECIOS-POLÍTICA
